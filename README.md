@@ -4,7 +4,7 @@ Team Name: CODE MASTERS
 Team Members:
     - RISHI VARMA KALIDINDI (C0880853)
     - AFREEN ANJUM (C0880830)
-    - FATHIMA KHANITHA ()
+    - FATHIMA KHANITHA (C0872420)
 
 
 ## Getting Started with Create React App
