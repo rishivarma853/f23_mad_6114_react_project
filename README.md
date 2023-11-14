@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# F23 MAD 6114 React Project
+## Details
+Team Name: CODE MASTERS
+Team Members:
+    - RISHI VARMA KALIDINDI (C0880853)
+    - AFREEN ANJUM (C0880830)
+    - FATHIMA KHANITHA ()
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
